@@ -63,6 +63,6 @@ public class Biblioteca {
                 break;
         }
 
-        sc.close(); // Fechando o Scanner no final do programa
+        sc.close();
     }
 }
